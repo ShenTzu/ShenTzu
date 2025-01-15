@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I've been making games for several years and published a few in this time, primarily narrative driven games with RPG Maker MV. Now I'm continuing my game dev journey with Godot, and looking for a job in the industry!
 <!--
 **ShenTzu/ShenTzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
