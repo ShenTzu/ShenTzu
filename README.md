@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I've been making games for several years and published a few in this time, primarily narrative driven games with RPG Maker MV. Now I'm continuing my game dev journey with Godot, and looking for a job in the industry!
+I’m an indie game developer from Richmond, British Columbia. I graduated with a Masters Degree in Finance, but changed to game development because games are a lifelong passion.
+
+I've been making games for several years and self-publishing games under the studio ShenTzu Games a few in this time, primarily narrative driven games with RPG Maker MV. Now I'm continuing my game dev journey with Godot, and looking for a job in the industry! While I’m primarily a generalist, my specialty and passion is worldbuilding and narrative design.
+
+You can find my published games on [Steam](https://store.steampowered.com/publisher/ShenTzuGames), and my game jams and prototypes on [itch.io](https://shentzu.itch.io)!
+
 <!--
 **ShenTzu/ShenTzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
